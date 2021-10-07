@@ -12,3 +12,5 @@ git-repository-url = "https://github.com/rust-unofficial/too-many-lists"
 
 [output.html.search]
 limit-results = 30
+
+[output.epub]
